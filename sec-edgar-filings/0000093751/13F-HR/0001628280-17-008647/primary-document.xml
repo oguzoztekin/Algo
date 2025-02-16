@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com="http://www.sec.gov/edgar/common" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000093751</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2017</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2017</reportCalendarOrQuarter>
+      <filingManager>
+        <name>STATE STREET CORP</name>
+        <address>
+          <com:street1>ONE LINCOLN STREET</com:street1>
+          <com:city>BOSTON</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02111</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-00399</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Aunoy Banerjee</name>
+      <title>Executive Vice President</title>
+      <phone>617-662-2748</phone>
+      <signature>/S/ Aunoy Banerjee</signature>
+      <city>Boston</city>
+      <stateOrCountry>MA</stateOrCountry>
+      <signatureDate>08-14-2017</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>11</otherIncludedManagersCount>
+      <tableEntryTotal>3698</tableEntryTotal>
+      <tableValueTotal>1130532203</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <name>State Street Bank &amp; Trust Co</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <name>SSgA Funds Management, Inc.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>5</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors LTD</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>6</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors Ltd.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>8</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors, Australia</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>10</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors (Japan) Co., Ltd.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>12</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors Asia LTD</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>13</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors GmbH</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>18</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors France, S.A.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>19</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors Ireland Limited</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>20</sequenceNumber>
+          <otherManager>
+            <name>State Street Global Advisors Trust Company</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>

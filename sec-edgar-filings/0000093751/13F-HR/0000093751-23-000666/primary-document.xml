@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000093751</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2023</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2023</reportCalendarOrQuarter>
+      <filingManager>
+        <name>STATE STREET CORP</name>
+        <address>
+          <com:street1>1 CONGRESS STREET</com:street1>
+          <com:street2>SUITE 1</com:street2>
+          <com:city>BOSTON</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02114</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-00399</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>ELIZABETH SCHAEFER</name>
+      <title>SENIOR VICE PRESIDENT, DEPUTY CONTROLLER</title>
+      <phone>617-664-5273</phone>
+      <signature>ELIZABETH SCHAEFER</signature>
+      <city>BOSTON</city>
+      <stateOrCountry>MA</stateOrCountry>
+      <signatureDate>08-14-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>11</otherIncludedManagersCount>
+      <tableEntryTotal>4676</tableEntryTotal>
+      <tableValueTotal>1904099129476</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-00733</form13FFileNumber>
+            <name>STATE STREET BANK AND TRUST COMPANY</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-11338</form13FFileNumber>
+            <name>SSGA FUNDS MANAGEMENT, INC.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>5</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-11326</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS LIMITED</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>6</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-11327</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS, LTD.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>8</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-11330</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS, AUSTRALIA, LIMITED</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>10</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-11332</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS (JAPAN) CO., LTD.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>11</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-18493</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS SINGAPORE LIMITED</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>12</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-11331</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS ASIA LIMITED</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>19</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-14459</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS EUROPE LIMITED</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>20</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-18135</form13FFileNumber>
+            <name>STATE STREET GLOBAL ADVISORS TRUST COMPANY</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>299</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>028-00299</form13FFileNumber>
+            <name>STATE STREET SAUDI ARABIA FINANCIAL SOLUTIONS CO</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>

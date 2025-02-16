@@ -1,0 +1,129 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Tj7FWsUXQ9S0ZP9hy09oACkLCe5kYLN305K767P70Pxtxhu4ghlq4XkYZwg+pDbm
+ VL4s7wwpCn9ocVWEefYS/A==
+
+<SEC-DOCUMENT>0001037389-00-000004.txt : 20000508
+<SEC-HEADER>0001037389-00-000004.hdr.sgml : 20000508
+ACCESSION NUMBER:		0001037389-00-000004
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000505
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RENAISSANCE TECHNOLOGIES CORP
+		CENTRAL INDEX KEY:			0001037389
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133127734
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		
+		SEC FILE NUMBER:	028-06262
+		FILM NUMBER:		620306
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 THIRD AVE 33TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	MAIL ADDRESS:	
+		STREET 1:		800 THIRD AVE 33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<TEXT>
+                      UNITED STATES
+                  SECURITIES AND EXCHANGE COMMISSION
+                        Washington, D.C.  20549
+
+                              FORM 13F
+
+                        FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2000
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Renaissance Technologies, Corp.
+Address: 800 3rd Avenue
+	 33rd floor
+         New York, NY 10022
+
+13F File Number:  28-6262
+
+The institutional investment manager filing this report and the person
+by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all information
+contained herein is true, correct and complete, and that it is
+understood that all required items, statements, schedules, lists, and
+tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Mark Silber
+Title:    Vice President
+Phone:    (212) 486-6780
+Signature, Place, and Date of Signing:
+
+	Mark Silber       New York, New York    May 3, 2000
+Report Type (Check only one.):
+
+[ X]        13F HOLDINGS REPORT.
+
+[  ]        13F NOTICE.
+
+[  ]        13F COMBINATION REPORT.
+
+
+
+
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+<PAGE>
+
+                          FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:        0
+
+Form 13F Information Table Entry Total:   821
+Form 13F Information Table Value (x $1000) Total:   $2062442
+
+
+Information for which we are requesting confidential treatment has
+been omitted and filed separately with the Commission.
+
+<PAGE>
+<TABLE>                        <C>                                            <C>
+	FORM 13F INFORMATION TABLE
+                                                           VALUE   SHARES/  SH/ PUT/ INVSTMT    OTHER          VOTING AUTHORITY
+        NAME OF ISSUER         TITLE OF CLASS     CUSIP   (x$1000) PRN AMT  PRN CALL DSCRETN   MANAGERS     SOLE    SHARED    NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+</TABLE>
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

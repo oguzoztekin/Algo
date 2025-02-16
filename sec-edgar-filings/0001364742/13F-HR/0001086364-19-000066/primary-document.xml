@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/common" xmlns:ns1="http://www.sec.gov/edgar/thirteenffiler" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns1:headerData>
+    <ns1:submissionType>13F-HR</ns1:submissionType>
+    <ns1:filerInfo>
+      <ns1:liveTestFlag>LIVE</ns1:liveTestFlag>
+      <ns1:filer>
+        <ns1:credentials>
+          <ns1:cik>0001364742</ns1:cik>
+          <ns1:ccc>XXXXXXXX</ns1:ccc>
+        </ns1:credentials>
+      </ns1:filer>
+      <ns1:periodOfReport>06-30-2019</ns1:periodOfReport>
+    </ns1:filerInfo>
+  </ns1:headerData>
+  <ns1:formData>
+    <ns1:coverPage>
+      <ns1:reportCalendarOrQuarter>06-30-2019</ns1:reportCalendarOrQuarter>
+      <ns1:filingManager>
+        <ns1:name>BlackRock Inc.</ns1:name>
+        <ns1:address>
+          <street1>55 East 52nd Street</street1>
+          <city>New York</city>
+          <stateOrCountry>NY</stateOrCountry>
+          <zipCode>10055</zipCode>
+        </ns1:address>
+      </ns1:filingManager>
+      <ns1:reportType>13F COMBINATION REPORT</ns1:reportType>
+      <ns1:form13FFileNumber>028-12019</ns1:form13FFileNumber>
+      <ns1:otherManagersInfo>
+        <ns1:otherManager>
+          <ns1:name>RUSSELL FRANK CO</ns1:name>
+        </ns1:otherManager>
+        <ns1:otherManager>
+          <ns1:name>Nationwide Mutual Funds/Nationwide Fund Advisors</ns1:name>
+        </ns1:otherManager>
+        <ns1:otherManager>
+          <ns1:name>Nationwide Variable Insurance Trust and Nationwide Fund Advisors</ns1:name>
+        </ns1:otherManager>
+      </ns1:otherManagersInfo>
+      <ns1:provideInfoForInstruction5>Y</ns1:provideInfoForInstruction5>
+      <ns1:additionalInformation>BlackRock, Inc. is the parent holding company of certain institutional investment managers. For purposes of the reporting requirements under Section 13(f) of the Securities Exchange Act of 1934 (the Act), and the rules promulgated thereunder, BlackRock, Inc. itself does not exercise, and therefore disclaims, investment discretion with respect to any Section 13(f) securities positions over which its investment operating subsidiaries exercise such discretion. To the extent, however, that BlackRock Inc.'s ownership interest in such subsidiaries may nevertheless give rise to a Form 13F obligation on behalf of BlackRock, Inc., the information required by Form 13F is reported herein on behalf of all such subsidiaries.</ns1:additionalInformation>
+    </ns1:coverPage>
+    <ns1:signatureBlock>
+      <ns1:name>/s/ Spencer Fleming</ns1:name>
+      <ns1:title>Attorney-In-Fact pursuant to PoA date October 2015</ns1:title>
+      <ns1:phone>212-810-5300</ns1:phone>
+      <ns1:signature>/s/ Spencer Fleming</ns1:signature>
+      <ns1:city>New York</ns1:city>
+      <ns1:stateOrCountry>NY</ns1:stateOrCountry>
+      <ns1:signatureDate>06-30-2019</ns1:signatureDate>
+    </ns1:signatureBlock>
+    <ns1:summaryPage>
+      <ns1:otherIncludedManagersCount>30</ns1:otherIncludedManagersCount>
+      <ns1:tableEntryTotal>43631</ns1:tableEntryTotal>
+      <ns1:tableValueTotal>2357938994</ns1:tableValueTotal>
+      <ns1:isConfidentialOmitted>false</ns1:isConfidentialOmitted>
+      <ns1:otherManagers2Info>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>2</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Financial Management, Inc.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>3</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Investment Management (Taiwan) Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>4</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Investment Management (Australia) Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>7</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Asset Management Canada Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>13</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock (Singapore) Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>15</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Asset Management North Asia Ltd</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>16</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Brasil Gestora de Investimentos Ltd.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>17</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>FutureAdvisor, Inc.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>18</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Investment Management, LLC</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>19</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Advisors LLC</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>20</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Capital Management, Inc.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>21</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Fund Advisors</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>22</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Institutional Trust Company, N.A.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>23</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Japan Co. Ltd</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>24</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Group LTD</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>25</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Fund Managers Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>26</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Investment Management (UK) Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>28</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock (Netherlands) B.V.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>29</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock International Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>30</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Asset Management Ireland Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>31</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Advisors (UK) Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>32</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Asset Management Deutschland AG</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>34</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock (Luxembourg) S.A.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>35</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>IShares (DE) I InvAG Mit Teilgesellschaftsvermogen</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>36</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Life Limited</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>37</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Fund Management Company S.A.</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>40</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Asset Management Schweiz AG</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>41</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Mexico Operadora, S.A. de C.V., Sociedad Operadora de Fondos de Inversion</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>42</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>Tennenbaum Capital Partners, LLC</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+        <ns1:otherManager2>
+          <ns1:sequenceNumber>44</ns1:sequenceNumber>
+          <ns1:otherManager>
+            <ns1:name>BlackRock Capital Investment Advisors, LLC</ns1:name>
+          </ns1:otherManager>
+        </ns1:otherManager2>
+      </ns1:otherManagers2Info>
+    </ns1:summaryPage>
+  </ns1:formData>
+</ns1:edgarSubmission>
